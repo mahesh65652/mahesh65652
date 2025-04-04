@@ -4,11 +4,7 @@
 import requests
 import time
 
-# Angel One API Credentials ( with your own)
-API_KEY = "your_api_key"
-CLIENT_ID = "your_client_id"
-FEED_TOKEN = "your_feed_token"
-BASE_URL = "https://apiconnect.angelbroking.com/rest/"
+# Angel One API your_api_key_।TO9mH1PC         " CLIENT_ID =M54235948 "your_client_id_M54235948" PASSWORD = "your_password_2323" "https://apiconnect.angelbroking.com/rest/"
 
 # Headers for API requests
 HEADERS = {
