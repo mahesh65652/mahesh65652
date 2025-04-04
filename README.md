@@ -4,7 +4,7 @@
 import requests
 import time
 
-# Angel One API Credentials (Replace with your own)
+# Angel One API Credentials ( with your own)
 API_KEY = "your_api_key"
 CLIENT_ID = "your_client_id"
 FEED_TOKEN = "your_feed_token"
